@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rknoche6
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning python's applicans for data analytics 
+- 👀 I’m a software engineer
+- 🌱 I’m currently learning javascript, react, and node 
 - 📫 How to reach me: rknoche@purdue.edu 
 
 <!---
